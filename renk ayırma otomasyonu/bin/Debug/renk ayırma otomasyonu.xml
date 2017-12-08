@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+renkayırmaotomasyonu
+</name>
+</assembly>
+<members>
+<member name="P:renk_ayırma_otomasyonu.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:renk_ayırma_otomasyonu.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:renk_ayırma_otomasyonu.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:renk_ayırma_otomasyonu.My.Resources.Resources.pul_y_0000_pul_p">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:renk_ayırma_otomasyonu.My.Resources.Resources.pul_y_0001_pul_s">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:renk_ayırma_otomasyonu.My.Resources.Resources.pul_y_0002_pul_y">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:renk_ayırma_otomasyonu.My.Resources.Resources.pul_y_0003_pul_k">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:renk_ayırma_otomasyonu.My.Resources.Resources.pul_y_0004_pul_t">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:renk_ayırma_otomasyonu.My.Resources.Resources.pul_y_0005_pul_m">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:renk_ayırma_otomasyonu.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

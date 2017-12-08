@@ -1,0 +1,18 @@
+C:\Users\sezgin\Desktop\renk ayırma otomasyonu\renk ayırma otomasyonu\bin\Debug\renk ayırma otomasyonu.exe
+C:\Users\sezgin\Desktop\renk ayırma otomasyonu\renk ayırma otomasyonu\bin\Debug\renk ayırma otomasyonu.pdb
+C:\Users\sezgin\Desktop\renk ayırma otomasyonu\renk ayırma otomasyonu\bin\Debug\renk ayırma otomasyonu.xml
+C:\Users\sezgin\Desktop\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk_ayırma_otomasyonu.Form1.resources
+C:\Users\sezgin\Desktop\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk_ayırma_otomasyonu.Resources.resources
+C:\Users\sezgin\Desktop\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk ayırma otomasyonu.vbproj.GenerateResource.Cache
+C:\Users\sezgin\Desktop\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk ayırma otomasyonu.exe
+C:\Users\sezgin\Desktop\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk ayırma otomasyonu.xml
+C:\Users\sezgin\Desktop\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk ayırma otomasyonu.pdb
+C:\Users\sezgin\Desktop\renk otomasyonu\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk ayırma otomasyonu.exe
+C:\Users\sezgin\Desktop\renk otomasyonu\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk ayırma otomasyonu.xml
+C:\Users\sezgin\Desktop\renk otomasyonu\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk ayırma otomasyonu.pdb
+C:\Users\sezgin\Desktop\renk otomasyonu\renk ayırma otomasyonu\renk ayırma otomasyonu\bin\Debug\renk ayırma otomasyonu.exe
+C:\Users\sezgin\Desktop\renk otomasyonu\renk ayırma otomasyonu\renk ayırma otomasyonu\bin\Debug\renk ayırma otomasyonu.pdb
+C:\Users\sezgin\Desktop\renk otomasyonu\renk ayırma otomasyonu\renk ayırma otomasyonu\bin\Debug\renk ayırma otomasyonu.xml
+C:\Users\sezgin\Desktop\renk otomasyonu\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk_ayırma_otomasyonu.Form1.resources
+C:\Users\sezgin\Desktop\renk otomasyonu\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk_ayırma_otomasyonu.Resources.resources
+C:\Users\sezgin\Desktop\renk otomasyonu\renk ayırma otomasyonu\renk ayırma otomasyonu\obj\Debug\renk ayırma otomasyonu.vbproj.GenerateResource.Cache
